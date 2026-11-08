@@ -1,5 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-label="Calorie">
-  <circle cx="512" cy="512" r="300" fill="none" stroke="#86868b" stroke-opacity=".25" stroke-width="64"/>
-  <circle cx="512" cy="512" r="300" fill="none" stroke="#0071e3" stroke-width="64" stroke-linecap="round"
-    stroke-dasharray="1885" stroke-dashoffset="660" transform="rotate(-90 512 512)"/>
+  <style>.p{fill:#1B4332}.c{fill:#40916C}.f{fill:#E07A5F}
+  @media (prefers-color-scheme:dark){.p{fill:#52B788}.c{fill:#2D6A4F}.f{fill:#F4A261}}</style>
+  <rect class="p" x="144" y="144" width="300" height="736" rx="96"/>
+  <rect class="c" x="484" y="144" width="396" height="200" rx="96"/>
+  <rect class="f" x="484" y="680" width="260" height="200" rx="100"/>
 </svg>
