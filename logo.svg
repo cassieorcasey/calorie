@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-label="Calorie">
+  <circle cx="512" cy="512" r="300" fill="none" stroke="#86868b" stroke-opacity=".25" stroke-width="64"/>
+  <circle cx="512" cy="512" r="300" fill="none" stroke="#0071e3" stroke-width="64" stroke-linecap="round"
+    stroke-dasharray="1885" stroke-dashoffset="660" transform="rotate(-90 512 512)"/>
+</svg>
